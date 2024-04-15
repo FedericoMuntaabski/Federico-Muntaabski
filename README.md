@@ -7,8 +7,6 @@ I´m a dedicated student pursuing a degree in Systems Engineering with a passion
 My current focus is on applying my systems engineering background to the ever-evolving field of cybersecurity. I'm particularly interested in network security hrough my studies and projects, I aim to develop a strong understanding of cyber threats and vulnerabilities, and leverage my systems engineering skills to design and implement robust security solutions.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | example          | <a href="https://google.com"></a>|
